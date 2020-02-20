@@ -1,0 +1,16 @@
+<html>
+
+<body>
+
+  <p>Before the script...</p>
+
+	<script>
+		alert( 'This is an alert Message!' );
+		alert(1);
+	</script>
+
+  <p>...After the script.</p>
+
+</body>
+
+</html>
