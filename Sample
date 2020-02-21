@@ -4,6 +4,9 @@
 
   <p>Before the script...</p>
 
+
+
+
 	<script>
 		alert( 'This is an alert Message!' );
 		alert(1);
